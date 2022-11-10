@@ -1,0 +1,5 @@
+On the chest is written [[MA-TCHES 5H137D]]
+
+A full suit of plate armor. What appears to be a potbelly stove in the abdomen, there appear to be exhaust pipes coming out of the back of his shoulders. The head appears to be a standard suit of armor, however one of the eyes has a monocle. It seems to have charred bits of spent wood or fuel in the belly. Upon lighting a fire in the stove, the flames becoming vacuum sucked into the body. The suit begins coming to life, spitting out lines of different systems coming online. The system seems to come online fully. Waiting for what appears to be instructions. The suit announces that it's directive is defend, and the system stands.  When asked who created him, he recalled that he does not remember and that his memory core was corrupted. He repeats that his primary directive is to defend. Caiwen seems to think that this is ancient technology lost a long long time ago. Made as weapons of war in ancient times, in times of lost magic. It's guessed that the suit was built about 2000 years ago.
+
+Behind the metal face plate, it opens up to reveal a mouth to seem "less scary"

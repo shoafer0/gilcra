@@ -1,0 +1,1 @@
+Spiritual "friend" that River speaks with from time to time. He has a raven skull on his shoulder and his friend seems to communicate through it

@@ -1,0 +1,2 @@
+- Scrying Eye //Aya
+The second item is a scrying eye. Once per day it will allow you to cast scry. Whoever's blood was used to make the rose, can eat the rose and return to full health. IF anyone other than the creator consumes it, that person/creature takes 10d6 poison damage.

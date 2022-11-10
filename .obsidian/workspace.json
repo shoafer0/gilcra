@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "832a3e580fcbe0d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f958c0437fdc1488",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43fe0086a24a80a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7a1a5d161fbfef1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5115355acb319fe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8863b61d27b69ee9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef5af2dacfe360c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212
+  },
+  "right": {
+    "id": "e33d0368c1f26674",
+    "type": "split",
+    "children": [
+      {
+        "id": "87589c4acb45415f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6790dd8e79bbeacf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "43fe0086a24a80a7",
+  "lastOpenFiles": [
+    "Encounters/20220906_08.md",
+    "World.md",
+    "Characters/Dorvik.md",
+    "Encounters/20220817_07.md"
+  ]
+}

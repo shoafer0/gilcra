@@ -1,0 +1,1 @@
+Goblin involved in an altercation with [[Benji]], who was attempting to rob him
