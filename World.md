@@ -719,3 +719,4 @@ the group leaves the Lt Cmdr and begin to make their way out to town
 
 Xan went off and got some magic supplies
 Aya was nervous about some of the happenings with the night commander so she revisited her for additional questioning
+Making changes
