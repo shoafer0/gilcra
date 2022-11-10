@@ -706,13 +706,17 @@ She asks if he would like to have access to the portal at Fort Torvas, which he 
 Aya asks to legitimize the bounty she wrote up
 she mentions that she cannot take the bounty and that it must be given to the proper channels
 the group mentions the tunnel found at [[The Laughing Unicorn]] to the Lt Cmdr, who mentions they are decrepit and run down... she does not seem all to worried
-the group leaves the Lt Cmdr and begin to make their way out to town
+the group leaves the Lt Cmdr 
 
 *END OF SESSION*
 
+### Session 30 - 20221102
+
+> was not present for session
+
 ### Session 31 - 20221109
-#### Date Start: 
-#### Date End: May 
+#### Date Start: May 4 - 1000
+#### Date End: May 4 - 1200
 #### Story Teller: River (Patrick)
 
 > details missed, I was afk and unable to snag some info
@@ -739,3 +743,17 @@ Bis looks for a quiet place to scry with her newly acquired magic item; looking 
 Bis looks for Carric after the spell ends
 Carric listens in the city for anything happening but comes up empty
 Bis finds Carric and has a discussion about her scrying for Saorny
+Aya visits a "known apothecary"; much to the storefront owners surprise
+	knew Xan and Aya's father as a younger lad
+	asks where Xan is
+	pulls out small box 
+	according to axan, he was framed for murder.. disobeying orders
+	his commanding officer was an elf, [[Kosrai Rolrai]]
+	asked about known children, but that was unknown
+	opens the box that was given to her, small cigar shaped box, small purple velvit sheet covering a small gold/brass "old calendar style -dial" with runes in a language that she does not understand
+		in the box is also a potion of supreme healing as well as a potion of haste
+		shop keeper as gives you a potion of heroism 
+	their conversation
+
+*END OF SESSION*
+
