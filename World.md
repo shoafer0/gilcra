@@ -550,7 +550,7 @@ Tom Dom and Tiddle, all siblings, set of brothers / triplets
 After eating dinner and being treated to a nice meal, the triplets are scared away by River and Dorvik's antics and hearing of the potential for them being eaten now that they were good an fat
 The group is able to fashion a new axle for it to work temporarily, hopefully getting far enough to a point that they can put a good fix to it
 Aya asks MA-TCHES to break down Aya's slave cuff as she wishes to enter a new city as a free person and no longer a slave
-The group does not hear the footsteps approach, but a disembodied voice calls from the woods "there's noooo fucking way, this contintent is tooo small. What luck do we have today boys!? We are in for a treat this evening... what a conversation we are going to have" - Bis and Carric recognize this voice as [[Mozzu]]
+The group does not hear the footsteps approach, but a disembodied voice calls from the woods "there's noooo fucking way, this contintent is tooo small. What luck do we have today boys!? We are in for a treat this evening... what a conversation we are going to have" - Bis and Carric recognize this voice as [[Mozu]]
 Carric immediately lunges at the voice //grapples and attempts to grab
 	Ath check - 19 / Miss
 Dorvik picks up on the name [[Malerai]] who says "I know that one over there... you're Oliver's boy... little Linhart"
@@ -565,9 +565,9 @@ Hearing the voice, Bis breaks out in a literal rage, her wild magic causing wild
 Dorvik has a moment of recognition and asks Malerai "what he's doing here", Malerai asks the same. Small conversation about how they are still alive takes place.
 Malerai asks how his father is doing and at that Dorvik takes a shot in the direction he believes Malerai is
 The group hears laughter in the woods as the sounds of voices move around them, seemingly surrounding them, although it's only the two voices
-Mozzu asks Carric if he's told his friends they used to work together... Carric begins shaking with anger... "ah we were friends"
-Mozzu brings up Bis and their past and how Bis has no one to blame but herself
-Mozzu and his group of people tell the group that they will leave us tonight, perhaps track us, perhaps see us another time
+Mozu asks Carric if he's told his friends they used to work together... Carric begins shaking with anger... "ah we were friends"
+Mozu brings up Bis and their past and how Bis has no one to blame but herself
+Mozu and his group of people tell the group that they will leave us tonight, perhaps track us, perhaps see us another time
 Bis is unable to find anything; however Dorvik finds a small brass locket with about 40/45 ft away from the cart
 Bis sees him pickup the locket and recognises it, Dorvik looks it over and sees the photo inside, Bis and her father and family
 Dorvik closes the locket, holds it, and slowly approaches Bis to hand her the locket
@@ -719,4 +719,23 @@ the group leaves the Lt Cmdr and begin to make their way out to town
 
 Xan went off and got some magic supplies
 Aya was nervous about some of the happenings with the night commander so she revisited her for additional questioning
-Making changes
+MA-TCHES visited the [[Crossed Bastian]] to pick up some new armor, a shield specifically
+River and Dorvik visited the stables to sell the horses and purchase a lizard for traveling through the desert... [[Matilda's Bazaar Bazaars]]
+We were able to sell the pair of horses for 100GP and purchased a lizard for 800GP after River negotiated an additional 100GP from the asking price
+After the deal took place with the horses and lizard, the stable hand asked about cart upgrades
+Carric has a conversation with Bis about [[Mozu]] and if there is potentially something else besides the fort, Carric has a feeling that this isn't his kind of place
+Carric leaves Bis and heads off down an alleyway 
+Bis looks for a quiet place to scry with her newly acquired magic item; looking for [[Saorny]]
+	she sees bright white at first that slowly gets darker and darker... almost pitch black
+	she sees a torch against a brick wall
+	she sees her dressed in what appears to be full plate mail armor; back against the wall
+	audibly she hears "I don't really care about that" 
+	another muffled voice in the background which she doesn't recognize say "I always thought it'd be a good idea if we didn't always have to kill them if they didn't agree with us... if they're going to try to kill us, we'll just kill them... she can just speak with dead if we really need information"
+	shadows crossing by in front of her, all sorts of different characters
+	she notes... "somebodies thinking of me"
+	she begins sharpening a sword with a stone
+	she states "we're going to get those guys"
+	someone in response says "lady saorny, I'll follow you until my dying day"
+Bis looks for Carric after the spell ends
+Carric listens in the city for anything happening but comes up empty
+Bis finds Carric and has a discussion about her scrying for Saorny

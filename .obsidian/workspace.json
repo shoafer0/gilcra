@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43fe0086a24a80a7",
+            "id": "3fa34eb6d7317a29",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +19,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -95,11 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "43fe0086a24a80a7",
+  "active": "3fa34eb6d7317a29",
   "lastOpenFiles": [
-    "Encounters/20220906_08.md",
+    "NPCs/Saorny.md",
     "World.md",
-    "Characters/Dorvik.md",
-    "Encounters/20220817_07.md"
+    "Loot/Gems-Misc.md",
+    "Loot/Oathbow.md",
+    "Loot/Unsorted-Party Loot.md",
+    "Loot/Quaal's Feather Token.md",
+    "Loot/Luck Blade.md",
+    "Loot/Obsidian Steed.md",
+    "Loot/Black Dragon Scale Mail.md",
+    "Loot/Magifying Glass.md"
   ]
 }
