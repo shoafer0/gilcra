@@ -750,10 +750,15 @@ Aya visits a "known apothecary"; much to the storefront owners surprise
 	according to axan, he was framed for murder.. disobeying orders
 	his commanding officer was an elf, [[Kosrai Rolrai]]
 	asked about known children, but that was unknown
-	opens the box that was given to her, small cigar shaped box, small purple velvit sheet covering a small gold/brass "old calendar style -dial" with runes in a language that she does not understand
+	opens the box that was given to her, small cigar shaped box, small purple velvet sheet covering a small gold/brass "old calendar style -dial" with runes in a language that she does not understand
 		in the box is also a potion of supreme healing as well as a potion of haste
 		shop keeper as gives you a potion of heroism 
-	their conversation
 
 *END OF SESSION*
 
+### Session 32 - 20221116
+#### Date Start: May 4 - 1200
+#### Date End: 
+#### Story Teller: Xan (Jay)
+
+Carric and Bis wonder around town taking in the sights,
