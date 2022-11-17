@@ -761,4 +761,34 @@ Aya visits a "known apothecary"; much to the storefront owners surprise
 #### Date End: 
 #### Story Teller: Xan (Jay)
 
-Carric and Bis wonder around town taking in the sights,
+Carric and Bis wonder around town taking in the sights, looking around, Carric notices folks around, random glances nothing in particular
+They are particularly interested in a sewer grate. Bis starts pulling on the grate while Carric keeps watch. Bis doesn't see a latch on the grate and is able to pull it up without issue
+Carric leaves Peepers behind and tells him to keep watch. The two of them drop into the sewer.
+Carric calls Peepers down behind them once the coast is clear
+After much searching the space the two stumble across a bag and take a minute to investigate
+They catch on to someone that seems worth following and decide to keep up, however their tail gets lost and they are unable to hear any conversations
+Bis "radio's" to River and gives him a clue to hunt down a shitty smell at 8 / J; asks for him and Dorvik to come on a scavenger hunt
+MA-TCHES heads to the library to catch up with Xan, but they don't let him in
+Dorvik and River wonder down the street looking for the street address reference by Bis, the two find a sewer grate and assume that's what Bis was referring and looks into the sewer. Catches a quick sight of something down at the bottom. The two lift the grate and grab the sack up from the floor
+The was nothing of interest in the leather sack other than 15CP 2SP
+Aya, finishing up in the shop, attempts to leave some coins on the counter before leaving; shop keep hears them and tells her it's not necessary, she insisted and said it could come in handy
+She changes into a wolf and sneaks around the backside of the alley next to the building which opens up and ends up near the barracks; wide open space
+She shape shifts into a house spider and begins in the direction of the head honcho's office
+Bis and Carric come to a dead end in search of some clues as to how an attack might be launched against the city
+River relays that Dorvik and he are at the [[Gorgous Moon]], Bis lets him know that they are on their way
+\<fast forward\> The group pays 2SP each for a room with their own bath 
+\<fast forward\> Aya searches for a way into the barracks, after a long while of travel she makes it to the highest point of the barracks
+Aya changes into the shape of a moth and begins checking the windows looking for anyone of importance; and is unable to find anyone 
+Xan completes his studies and runs into someone that is able to give him access to the teleportation circle located in the back room of the barracks
+Xan told the group he was be back to the [[The Laughing Unicorn]] after completing his studies
+The group, wherever they are, feel the ground begin to shake for a short period of time, as quickly as it started, it stops
+In the distance, the sound of loud eruptions/explosions can be hear sounding off in the background
+The group sees bodies coming out of the ground, lots of bodies... humanoid in nature
+Nothing is seen reigning down from the skies, no spells
+The group at the tavern see the people that come up from the ground running at them with weapons drawn; they begin shooting and swinging their weapons
+Aya changes into wolf form and starts to head back in the direct of her group
+The group begins taking out people left and right as they attempt to figure out what's going on
+Aya knows where Xan is and is heading in his direction. The group sees her and begins to chase after her in wolf form
+The group works through the initial horde and eventually comes upon a much larger hole than the others. At least 30ft in diameter
+Sihloettes of people can be seen in the dust, with radiant lights forming around their hands
+The head of [[Malerai]] can be seen as the dust begins to settle, two jolts of lightning begins shooting off the hands of a white dragonborne as he begins coming out of the ground "let's get ready to plaaaay"

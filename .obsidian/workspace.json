@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8614053124597d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/202211xx_10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World.md",
+                "file": "Encounters/202211xx_10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a4619e5bb1e9dd8",
+  "active": "8614053124597d94",
   "lastOpenFiles": [
-    "Loot/Quaal's Feather Token.md",
     "World.md",
+    "Encounters/202211xx_10.md",
+    "Encounters/20221011_09.md",
+    "Loot/Quaal's Feather Token.md",
     "NPCs/Saorny.md",
     "Loot/Gems-Misc.md",
     "Loot/Oathbow.md",
     "Loot/Unsorted-Party Loot.md",
     "Loot/Luck Blade.md",
-    "Loot/Obsidian Steed.md",
-    "Loot/Black Dragon Scale Mail.md",
-    "Loot/Magifying Glass.md"
+    "Loot/Obsidian Steed.md"
   ]
 }
