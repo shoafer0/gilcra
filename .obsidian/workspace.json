@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/202211xx_10.md",
+                "file": "World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,10 +108,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8614053124597d94",
+  "active": "1a4619e5bb1e9dd8",
   "lastOpenFiles": [
-    "World.md",
     "Encounters/202211xx_10.md",
+    "World.md",
     "Encounters/20221011_09.md",
     "Loot/Quaal's Feather Token.md",
     "NPCs/Saorny.md",

@@ -792,3 +792,5 @@ Aya knows where Xan is and is heading in his direction. The group sees her and b
 The group works through the initial horde and eventually comes upon a much larger hole than the others. At least 30ft in diameter
 Sihloettes of people can be seen in the dust, with radiant lights forming around their hands
 The head of [[Malerai]] can be seen as the dust begins to settle, two jolts of lightning begins shooting off the hands of a white dragonborne as he begins coming out of the ground "let's get ready to plaaaay"
+
+*END OF SESSION*
