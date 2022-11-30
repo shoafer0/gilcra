@@ -758,7 +758,7 @@ Aya visits a "known apothecary"; much to the storefront owners surprise
 
 ### Session 32 - 20221116
 #### Date Start: May 4 - 1200
-#### Date End: 
+#### Date End: May 4 - 2100
 #### Story Teller: Xan (Jay)
 
 Carric and Bis wonder around town taking in the sights, looking around, Carric notices folks around, random glances nothing in particular
@@ -791,6 +791,12 @@ The group begins taking out people left and right as they attempt to figure out 
 Aya knows where Xan is and is heading in his direction. The group sees her and begins to chase after her in wolf form
 The group works through the initial horde and eventually comes upon a much larger hole than the others. At least 30ft in diameter
 Sihloettes of people can be seen in the dust, with radiant lights forming around their hands
-The head of [[Malerai]] can be seen as the dust begins to settle, two jolts of lightning begins shooting off the hands of a white dragonborne as he begins coming out of the ground "let's get ready to plaaaay"
+The head of [[Malerai]] can be seen as the dust begins to settle and from the other side of the settled dust, two jolts of lightning begin shooting off the hands of the white dragonborne [[Mozu]] as he see the group and lets out - "let's get ready to plaaaay"
 
 *END OF SESSION*
+
+### Session 32 - 20221130
+#### Date Start: May 4 - 2100
+#### Date End: 
+#### Story Teller: 
+
