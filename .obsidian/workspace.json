@@ -25,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounters/202211xx_10.md",
+                "file": "Encounters/20221130_10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212
+    "width": 212,
+    "collapsed": true
   },
   "right": {
     "id": "e33d0368c1f26674",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World.md",
+                "file": "Encounters/20221130_10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a4619e5bb1e9dd8",
+  "active": "8614053124597d94",
   "lastOpenFiles": [
-    "Encounters/202211xx_10.md",
     "World.md",
+    "Encounters/20221130_10.md",
+    "NPCs/Mozzu.md",
     "Encounters/20221011_09.md",
     "Loot/Quaal's Feather Token.md",
     "NPCs/Saorny.md",
     "Loot/Gems-Misc.md",
     "Loot/Oathbow.md",
     "Loot/Unsorted-Party Loot.md",
-    "Loot/Luck Blade.md",
-    "Loot/Obsidian Steed.md"
+    "Loot/Luck Blade.md"
   ]
 }

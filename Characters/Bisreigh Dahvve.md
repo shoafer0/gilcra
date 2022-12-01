@@ -22,4 +22,4 @@ While on watch with Xan, Carric talks about Bis' history and about two dragonbor
 
 Claims she runs the town [[New Geghyar]] and is trying to make sure no nonsense is coming in
 
-Looking for a person name [[Mozu]]
+Looking for a person name [[Mozzu]]
