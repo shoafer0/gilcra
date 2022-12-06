@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9bb8b1b78c9f75bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Loot/Sphere of Unlocked Power.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "42e7a694000952b4",
             "type": "leaf",
             "state": {
@@ -122,15 +134,15 @@
   },
   "active": "1a4619e5bb1e9dd8",
   "lastOpenFiles": [
-    "Loot/Unsorted-Party Loot.md",
+    "Loot/Sphere of Unlocked Power.md",
     "World.md",
+    "Loot/Unsorted-Party Loot.md",
     "Encounters/20221130_10.md",
     "NPCs/Mozzu.md",
     "Encounters/20221011_09.md",
     "Loot/Quaal's Feather Token.md",
     "NPCs/Saorny.md",
     "Loot/Gems-Misc.md",
-    "Loot/Oathbow.md",
-    "Loot/Luck Blade.md"
+    "Loot/Oathbow.md"
   ]
 }

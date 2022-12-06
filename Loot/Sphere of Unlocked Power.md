@@ -1,2 +1,2 @@
-- Sphere of Unlocked Power //Dorvik & Carric
+- Sphere of Unlocked Power // Dorvik - Carric - Xan
 Very Rare (Requires Attunement) This golden sphere gives off a warm and inviting light, as if it was created by the heavens themselves. If there are any other Spheres of Unlocked Power on this plane of existence, you start to get a sense of direction of it. Once attuned to this item, you may choose one from any of your ability scores. That ability score’s maximum threshold increases by 4 and the ability score itself increases by 4. The sphere then shrinks to the size of a small stone for ease of carry and concealment. If you ever become unattuned to this item, you may never attune to it again.
