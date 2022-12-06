@@ -797,15 +797,15 @@ The head of [[Malerai]] can be seen as the dust begins to settle and from the ot
 
 ### Session 33 - 20221130
 #### Date Start: May 4 - 2100
-#### Date End: 
-#### Story Teller: 
+#### Date End: n/a
+#### Story Teller: none
 
 encounter [[20221130_10]]
 
 ### Session 34 - 20221205
 #### Date Start: May 4 - 2100
 #### Date End: 
-#### Story Teller: 
+#### Story Teller: none
 
 continuation ... encounter [[20221130_10]]
 
