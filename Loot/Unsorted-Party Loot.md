@@ -6,3 +6,5 @@
 	5 large sapphires 300GP ea
 13 gold chalices pieces 50GP ea
 
+\< From Malerai \>
+Orb of Power pulled from inside Malerai - just a stone (Xan reaches out to take the orb)

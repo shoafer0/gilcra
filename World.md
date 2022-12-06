@@ -800,3 +800,25 @@ The head of [[Malerai]] can be seen as the dust begins to settle and from the ot
 #### Date End: 
 #### Story Teller: 
 
+encounter [[20221130_10]]
+
+### Session 34 - 20221205
+#### Date Start: May 4 - 2100
+#### Date End: 
+#### Story Teller: 
+
+continuation ... encounter [[20221130_10]]
+
+Carric died in combat, Pip attempted to revivify him, however it was countered. Post combat, Pip curled up crying over his body
+It appears that Mozzu escaped and Aya is able to sniff out his scent going into the ground, the tunnel appears to be collapsed 
+Xan determines that Mozzu caused the collapse of the tunnel on his retreat and attempts to settle Aya, even though she his a very fixated focus
+Xan seeing her desperation, hops down into the hole to dig with her
+Xan waits for her to settle and dimension doors back to the group
+MA-TCHES and Dorvik settle next to Carric, MA-TCHES says it's not to late for him yet
+Bis sees Carric on the ground and begins speaking to him / about him
+Aya mentions that she believes she can bring him back / she calls back her nightmare and takes her to the Lt Cmdr to aid with the rest of the battle
+The group reaches out to the people in the house next to the battle site and request that they watch over Carric while they follow Aya
+Prior to leaving, Dorvik still feels the heavy pull toward Malerai's body and he searches for what he believes to be another orb
+The orb is found inside his body, where his heart should have been. Causing Dorvik to question if this is even the original Malerai that he knew before
+Upon the orbs reveal, it cracks and a bright glow shines through, seemingly repelling Dorvik from it
+Dorvik nodes to the group for someone to grab for it... to which Xan does. The orb initially fights him, damaging him along the way, but he's eventually able to grasp it, at which point it reveals itself to him
