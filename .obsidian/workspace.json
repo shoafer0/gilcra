@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f958c0437fdc1488",
+        "id": "a48d252f08ab40e8",
         "type": "tabs",
         "children": [
           {
-            "id": "1a4619e5bb1e9dd8",
+            "id": "88cc380e79136a66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,11 +91,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a4619e5bb1e9dd8",
+  "active": "88cc380e79136a66",
   "lastOpenFiles": [
-    "Loot/Unsorted-Party Loot.md",
     "Encounters/20221130_10.md",
     "World.md",
+    "Loot/Unsorted-Party Loot.md",
     "Loot/Sphere of Unlocked Power.md",
     "NPCs/Mozzu.md",
     "Encounters/20221011_09.md",
