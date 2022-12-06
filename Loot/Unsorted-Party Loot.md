@@ -8,3 +8,4 @@
 
 \< From Malerai \>
 Orb of Power pulled from inside Malerai - just a stone (Xan reaches out to take the orb)
+Ring of Protection

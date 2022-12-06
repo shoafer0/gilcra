@@ -804,7 +804,7 @@ encounter [[20221130_10]]
 
 ### Session 34 - 20221205
 #### Date Start: May 4 - 2100
-#### Date End: 
+#### Date End: May 5 - 1200
 #### Story Teller: none
 
 continuation ... encounter [[20221130_10]]
@@ -822,3 +822,7 @@ Prior to leaving, Dorvik still feels the heavy pull toward Malerai's body and he
 The orb is found inside his body, where his heart should have been. Causing Dorvik to question if this is even the original Malerai that he knew before
 Upon the orbs reveal, it cracks and a bright glow shines through, seemingly repelling Dorvik from it
 Dorvik nodes to the group for someone to grab for it... to which Xan does. The orb initially fights him, damaging him along the way, but he's eventually able to grasp it, at which point it reveals itself to him
+His eyes roll back and he is taken away with the orb, when he returns to his mind, Aya heals him 
+Both Xan and Dorvik feel the pull to Carric's body, to which Xan reaches into Carric's pocket and reveals the orb that Carric had received
+
+*end of session*
