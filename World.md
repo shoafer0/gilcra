@@ -826,3 +826,9 @@ His eyes roll back and he is taken away with the orb, when he returns to his min
 Both Xan and Dorvik feel the pull to Carric's body, to which Xan reaches into Carric's pocket and reveals the orb that Carric had received
 
 *end of session*
+
+### Session 35 - 
+#### Date Start: May 5 - 1200
+#### Date End: 
+#### Story Teller: none
+

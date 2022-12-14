@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a48d252f08ab40e8",
+        "id": "5b7343f839bfeb04",
         "type": "tabs",
         "children": [
           {
-            "id": "88cc380e79136a66",
+            "id": "0d0a61bac0aef459",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -91,7 +91,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "88cc380e79136a66",
+  "active": "0d0a61bac0aef459",
   "lastOpenFiles": [
     "Encounters/20221130_10.md",
     "World.md",
