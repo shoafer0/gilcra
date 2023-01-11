@@ -811,7 +811,7 @@ continuation ... encounter [[20221130_10]]
 
 Carric died in combat, Pip attempted to revivify him, however it was countered. Post combat, Pip curled up crying over his body
 It appears that Mozzu escaped and Aya is able to sniff out his scent going into the ground, the tunnel appears to be collapsed 
-Xan determines that Mozzu caused the collapse of the tunnel on his retreat and attempts to settle Aya, even though she his a very fixated focus
+Xan determines that Mozzu caused the collapse of the tunnel on his retreat and attempts to settle Aya, even though she has a very fixated focus
 Xan seeing her desperation, hops down into the hole to dig with her
 Xan waits for her to settle and dimension doors back to the group
 MA-TCHES and Dorvik settle next to Carric, MA-TCHES says it's not to late for him yet
