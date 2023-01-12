@@ -827,8 +827,56 @@ Both Xan and Dorvik feel the pull to Carric's body, to which Xan reaches into Ca
 
 *end of session*
 
-### Session 35 - 
-#### Date Start: May 5 - 1200
-#### Date End: 
-#### Story Teller: none
+### Session 35 - 20230111
+#### Date Start: May 5 - ~0100 to 0300~
+#### Date End: May 5 - 1300
+#### Story Teller: Dorvik (Nate)
+
+The group asks Aya what we need to do to bring Carric back; money, we need money
+Group discusses next course of action to possibly bring Carric back from the dead... we're on a 10 day limit
+at the mention of preparing tea and hearing the homeowners talk about it, he reaches his hand out the door and shares his tea and biscuits
+based on Xan's history check; nothing about the strange shaped box and medallion looking object rings a bell 
+based on Xan's arcana check; he definitely recognizes the objects as an arcane symbol used for communication/teleportation/messaging/scrying, but beyond that, he's not sure what it means or how to use it
+Aya goes rushing out of the building looking for the man she knows that can help. Wildly bangs on his door hollering for [[William]]
+She introduces Xan to William, after initial hellos and explanation for the visit, he changes himself into his normal form as a changeling
+William mentions something to Aya about her father being framed which peaks Xan's attention to which he begins explaining everything he believes to know about their father and how he thinks he was framed. The original person he believed had framed him is no longer around - [[Causrae Rollrae]] (SP?)
+Xan pulls out 70 PP to cover the cost for the oil required but doesn't have the remaining oil required to complete the ritual. The group will also need to find some rare mushrooms in the forest or loot some of the ents killed previously.
+Xan and Aya decide to go as quickly as possible to the location the group fought the ents to see if they could turn up the materials required.
+Aya relays to Bis her and Xan's plans and requests that the group begin building a pyre in preparation for their return
+Using Aya's nightmare mount, the two of them are able to make record time
+After perception checks from both; the two of them pick up the familiar sights of their past foot prints
+with a nature check from both; Aya is able to track her way right back to the groups previous campsite 
+in no time flat, they are able to make it back to the location of a previous battle, they are able to location the location of the place where the dead Ent's went down. Xan is able to pick up small circle marks on the group where the Ent body once laid, a small thick oily substance remained... the two of them begin scooping up as much of the substance as they could
+a dex check is required; Xan notices that Aya's hands begin to shake spilling the precious oils as she attempts to collect it
+Xan notices Aya crying; she mentions this isn't the first time she's lost a friend, but it is the first time she's able to do something about it
+after collecting what they feel like is enough, Xan makes the comment that they should have enough now and they hop back on the mount back to the main group as quickly as they can
+while Xan and Aya were away, Dorvik press Bis the importance of the pyre with hopes to keep her focus off Carric. while she's doing that, Dorvik respectfully prepared Carrics body, cleaned and dressed.
+Xan and Aya returned to William with the supplies they gathered in the forest for his appraisal. Surprised by how much they collected, he let them know that they now have 2200 GP worth of rare oils
+Aya mentions to the group that she needs to rest before the ritual can be done so the group prepares the body and settle down for a long rest inside of a tiny hut prepared by Xan
+*LONG REST*
+#### Fury +18
+upon waking up, Xan checks on MA-TCHES pot of tea and realizes how long it has been since it was last made... cleans the pot up and makes a fresh batch
+Aya begins prepping Carric's body for the ritual... dipping her fingers in the oil and writing arcane runes and symbols all around the body, in the grass, on the body
+Aya preps the group that this might not work and that it is his own choice to come back or not... 
+she flicks a bit of fire on one of the runes, shaped as roses falling from the sky, different colors of flame roses begin lighting off the the prepared symbols
+the fire begins to take on a breath of its own, attempting to breath life back into Carric... his body begins floating off the ground 
+Aya attempts to intimidate Carric into coming back into his own body... 
+Xan begins speaking to the history of his people, recounting all of the historical stories of the elves, knowing Carric has know alcohol to drink through these stories
+finally Bis speaks up... with an emotion that has culminated into a cacophony of frustration... a temper tantrum attempting to make as much noise... stomping... scraping her sword on the ground... "you will hear me, you will come back... this is not over Carric!"
+in darkness, his eyes open up to nothingness, almost as if he's locked in a dark room to think to himself... what feels like decades. he notices a pinprick of color and light. moving forward to it, he notices it begins to expand and get bigger. he hears Aya threatening him, he hears the history of his people, and finally... the angry and distraught Bis attempting to bring him back... do you wish to return to the material plan...
+Joe: yes!
+Carric feels his body begin to ooz and twist and move as if his spiritual self becomes the fire... the physical fires the group see are floating and seem to be forming the shape of a floating shell or body
+the group sees the kalidescope of colors dissipate and as everyone's eyes begin to regain focus and can see into the pyre again, they see Carric... but also not Carric. his height has not changed at all, however when his eyes open up and his chest begins breathing. oddly it is not the Carric that everyone knew previously... appearing to be more human than blue elf
+Carric appears to have come back as a Stout Halfling... no longer a sea elf... a head of red curley hair now sits on top of his dome and blue eyes.
+While Bis attempted to hand Carric his orb back, the orb exploded with a burst of energy damaging him and Bis... this time, it seems Bis is the one chosen by the orb as her eyes go sheet white and roll into the back of her head
+as Bis was knocked out and in her vision... Aya heals her for the damage she took while handing over the orb
+The folks with the orbs can now feel the pull of a fourth orb.... as the 3 look straight down in the same direction
+Xan makes mention of the tunnels below the ground and the potential for them to be underground... 
+"why didn't we know [[Malerai]] had an orb until after he died"
+Carric finds his drink pouch and takes a huuuuge swig... and it immediately begins burning as he coughs up the drink
+he then casts mask of many faces to make himself look like he did before dying in battle
+upon seeing Carric as he was before... she broke down and was so happy to see him back... so excited to see him she goes in for the hug... to which he actually hugs her back
+The group returns back to the house after all of this went down to the house patrons having made a huge home cooked hot meal
+
+*END OF SESSION*
 

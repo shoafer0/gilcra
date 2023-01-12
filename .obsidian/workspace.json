@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "5b7343f839bfeb04",
+        "id": "887d7016a616d2eb",
         "type": "tabs",
         "children": [
           {
-            "id": "0d0a61bac0aef459",
-=======
-        "id": "f25ba488c1ef3461",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b9b25fdd175a6d88",
->>>>>>> Stashed changes
+            "id": "43fe0086a24a80a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,9 +96,6 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< Updated upstream
-  "active": "0d0a61bac0aef459",
-=======
   "left-ribbon": {
     "hiddenItems": {
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -117,18 +106,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b9b25fdd175a6d88",
->>>>>>> Stashed changes
+  "active": "43fe0086a24a80a7",
   "lastOpenFiles": [
-    "Encounters/20221130_10.md",
+    "Encounters/20220906_08.md",
     "World.md",
-    "Loot/Unsorted-Party Loot.md",
-    "Loot/Sphere of Unlocked Power.md",
-    "NPCs/Mozzu.md",
-    "Encounters/20221011_09.md",
-    "Loot/Quaal's Feather Token.md",
-    "NPCs/Saorny.md",
-    "Loot/Gems-Misc.md",
-    "Loot/Oathbow.md"
+    "Characters/Dorvik.md",
+    "Encounters/20220817_07.md"
   ]
 }
