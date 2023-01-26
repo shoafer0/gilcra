@@ -880,3 +880,47 @@ The group returns back to the house after all of this went down to the house pat
 
 *END OF SESSION*
 
+### Session 35 - 20230125
+#### Date Start: May 5 - 1300
+#### Date End: 
+#### Story Teller: Dorvik (Nate)
+
+The group discusses where the orb pull is directing us. To which we feel it greatest below our feet, underground
+The group discussed plant plopping / potentially meeting up with [[Lady Ka'win]] who was upgrading our wagon, sent her a message to see how things were going
+She responds, [[Gilcra]] is still under repair so supplies are supremely limited... she is in [[Gilcra]]... she is surprised we have 3 of the orbs now
+The group realizes we haven't identified the large disk provided by [[William]], as a gift from Xan and Aya's father... a death box
+MA-TCHES begins identifying the item as a ritual, at the end he fails a wisdom saving throw, throwing him through the bedroom wall behind him
+The family that lives in this house politely ask the group to leave, Xan leaves 3 PP to cover the cost of damage caused 
+Outside, fires still burn and buildings are damaged from the battle that took place here
+The group discovers that the location they had parked their lizards is covered in smoke, fire burns around the area
+the front gate is heavily damaged and many large buildings have completely fallen
+we look for the LT CMDR, but she is not there... nor is the CMDR
+while the group stands around trying to figure out where to go, it's noticed that Pip is missing from the group
+Carric, seemingly out of nowhere, a small fox (Pip) lands on him with a small handkerchief in his mouth... Carric says what the hell was that for
+Aya grabs the handkerchief and takes off down and alley ... smelling for a scent and changing into a wolf
+Bis pulls out some creatures... a bear and a goat, who then begin sniffing out the and following Aya
+the rest of the group follows them through the town... 
+the group comes to a group of soldiers, one of whom is giving out orders... Xan recognizes the rank of the ensign... he asks where the LT CMDR is and he begins 
+listing out all of the places the different people he knows of are, unsure of exactly where they are
+Xan says thank you and begins heading toward the eastern wall... where a pyre has been created and dozens of bodies are being burned...
+on the other side, we see the silver dragonborn, the LT CMDR... she notices the group approach and begins approaching
+Xan mentions we believe they went underground to which the LT CMDR stated the same, talked about the battle and how orchestrated they popped out of the ground
+She mentions that she knows of for sure, 3 places that they could have mustered and supported supplies for the army that attacked
+It seems we're going down into the tunnels... Xan asked about maps, which they don't have
+the group questions her about the CMDR and where he was, we're able to get out that he's in pursuit in the tunnels of the enemy
+we then decide to take it underground, looking to enter at the front gate tunnel entrance 
+the group heads back to the [[The Laughing Unicorn]] for some quick rest and to recover a bit
+suddenly in the back, some pans begin banging around, slamming on the ground, the own comes out asking how we're doing and what he can get us
+Xan stands up and asks him to take a seat and he'd be happy to get him some food
+he notices that we are down a blue person... to which Carric speaks up and lets him know what happened
+Xan sends a message to Azzan, requesting his assistance and to bring his sword
+Azzan responds, he can't come from fear of death, he'll send his sword... happy Aya is safe, happy you're safe... disk dangerous, break seal... emergency... run after using
+Xan informs Aya about the message from Azzan
+some time passes and a gentleman, with some tattered clothing approaches the tavern asking for Xan, Xan signs the document and he leaves a box with him
+out of the box comes a set of [[Bracers of Defense]] and two rings [[Ring of Lightning Resistance]] and [[Ring of Necrotic Resistance]] ... lastly is a [[Studded Leather +3]]
+Bis takes the Bracers, Xan took the leather armor, Carric takes the Lightning Resistance ring, and lastly the Necrotic Resistance ring went to Aya
+the group leaves the tavern and head to the tunnel entrance ... looking down is pure darkness and what appear to be handholds carved into the side used to climb up
+it appears to be completely bottomless, River pulls out some magical rope and begins unraveling it until it comes to a stop... 
+Xan stares at River as he begins floating down into the darkness
+After about a bit of the way in, it flattens out and his darkvision reaches his max unable to see anything ... totally about 90 ft in depth
+Xan messages Aya his experience and they begin making their way into the tunnel
