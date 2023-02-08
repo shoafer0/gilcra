@@ -11,8 +11,12 @@
             "id": "9fbf5c29001a2792",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "World.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -57,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212
+    "width": 212,
+    "collapsed": true
   },
   "right": {
     "id": "e33d0368c1f26674",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
