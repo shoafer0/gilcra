@@ -924,3 +924,11 @@ it appears to be completely bottomless, River pulls out some magical rope and be
 Xan stares at River as he begins floating down into the darkness
 After about a bit of the way in, it flattens out and his darkvision reaches his max unable to see anything ... totally about 90 ft in depth
 Xan messages Aya his experience and they begin making their way into the tunnel
+
+*END OF SESSION*
+
+### Session 36 - 20230221
+#### Date Start: 
+#### Date End: 
+#### Story Teller: Biz (Ash)
+
