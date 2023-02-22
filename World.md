@@ -882,7 +882,7 @@ The group returns back to the house after all of this went down to the house pat
 
 ### Session 35 - 20230125
 #### Date Start: May 5 - 1300
-#### Date End: 
+#### Date End: May 5 - 1400
 #### Story Teller: Dorvik (Nate)
 
 The group discusses where the orb pull is directing us. To which we feel it greatest below our feet, underground
@@ -928,7 +928,30 @@ Xan messages Aya his experience and they begin making their way into the tunnel
 *END OF SESSION*
 
 ### Session 36 - 20230221
-#### Date Start: 
+#### Date Start: May 5 - 1500
 #### Date End: 
 #### Story Teller: Biz (Ash)
 
+while traveling, those with the orbs attuned, still maintain the feeling that we need to head down
+group comes to a fork, which sends the group in an up direction one way, and down in the other; group decides to head down
+Carric picks up on a scent that tickles his nostrils; almost like he needs to sneeze, but it seems to never come... repeatedly, leading to an acidic/corrosive smell in the air
+heading down further, the ground changes to a pea sized gravel, almost muddy clay; eventually the tunnel turns to just a rock face
+Carric mentions the smell and a few more are able to pickup on the smell; we do have a faint feeling that the smell is similar to the black dragon we fought before... and it is similar
+cave has widen out, can proceed straight or veer off to the left; Biz determines that heading straight will lead us more in a downward direction
+Dorvik gets the hint of something to the south and picks up on something near the wall... pip screams for a moment as Dorviks head disappears and reappears as a secret tunnel has been discovered
+As Bis leads the group further into the tunnel, it splits. she takes the tunnel to the left.. 
+in the flicker of the light, a small stone glints and flutters in the darkness
+the group sees tenrils and tencles peel away from the wall as a giant creatures pulls itself away from the wall [[20230221_11]]
+the group ends combat with everyone still in tact; 
+Bis goat dies from eating the now dead creature and actually dies from diseased flesh
+Carric casts light on himself
+Bis pulls another creature from her magic bag and summons a giant weasel to ride
+Dorvik pulls a tooth from the dead creature (4 in monster fang (5GP))
+Bis pulls a tooth as well (5 in monster fang (5GP))
+while wondering through the tunnels, dorvik hears a voice not from our group, coming from the tunnels in front; he takes a stealth action and goes to check it out. he doesn't hear talking in front anymore, however he is hearing the footsteps in the gravel in front
+he came back to the group and tells them of the movement ahead of them
+decides to light up an arrow and shots it forward, to get a description of the area ahead
+he makes out some armored up creatures in split directions, stone white hair and matching skin, and onyx eyes
+xan decides to add a message in infernal "would you like some tea" to a small pebble and fion carries the pebble in, dropping the pebble which played the message
+the reaction to the pebble message seems to be zero so the group decides to provoke by stepping out so they can be seen, only to dip back into the room they were in
+[[20230221_11]]
