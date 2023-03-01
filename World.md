@@ -929,7 +929,7 @@ Xan messages Aya his experience and they begin making their way into the tunnel
 
 ### Session 36 - 20230221
 #### Date Start: May 5 - 1500
-#### Date End: 
+#### Date End: May 5 - 1700
 #### Story Teller: Biz (Ash)
 
 while traveling, those with the orbs attuned, still maintain the feeling that we need to head down
@@ -955,3 +955,40 @@ he makes out some armored up creatures in split directions, stone white hair and
 xan decides to add a message in infernal "would you like some tea" to a small pebble and fion carries the pebble in, dropping the pebble which played the message
 the reaction to the pebble message seems to be zero so the group decides to provoke by stepping out so they can be seen, only to dip back into the room they were in
 [[20230221_11]]
+
+*END OF SESSION*
+
+### Session 37 - 20230228
+#### Date Start: May 5 - 1700
+#### Date End: 
+#### Story Teller: Carric (Joe)
+
+Starting the session in the tunnels, those with the orb get the feeling that they need to keep heading in north-western direction
+Xan decides to pull out some tots, but realizes that his tots have got missing or are smushed... this has brought him great distress ... visually angry ... ready to kill
+Bis attempts to comfort and sooth Aya, who is still cowering in the corner of the tunnel
+Aya is brought out of her state with a lulaby sung by Xan and overs her tea
+Group takes a short rest and sets up to head off on down the tunnel
+The group picks up a noise in the distance and Dorvik sees a quick flash of green light in the distance
+Dorvik picks up a quick 3 second long chant in a language he doesn't understand but can't identify what he heard
+Xan sends Fion out to investigate the area ahead of them. Fion comes to an intentionally carved staircase that appears to head down 
+There is a crystal pulsating at the bottom of the stairs with a slight glow
+Leading the group down the stairs, Dorvik takes not of what appears to be a trap on the stairs, being sure to point it out to the group
+There is a glowing/stone/crystal on the corner of the right wall
+As soon as the group enters this threshold, the pull stops... 
+Fion heads due west
+Xan describes to the group all he saw and the tunnels layout
+Bis makes the suggestion to scry on Mozu, the group agrees and Bis starts the process
+While scrying, the crystal shatters in Bis' hands and she manages to take 25 dmg
+Aya heals Bis the moment she sees her get hit
+Group ends up stumbling on a trap and abit of the group takes a chunk of dmg
+Those that can see in the dark are able to make out "monks" with red robes, however unable to make out their faces or their bodies... at the end of the light radius and can't make out what they are facing
+They pay the group zero mind, go into a kneeling position, stand up, then repeat... 2 leave the room, leaving 8
+The vision of what is happening off in the distance is just out of view and Aya stresses that we really should back up out of this area... Aya and Dorvik follow her lead
+The group wind their way around the tunnels and venture into another big open room
+Not much is seen in the room
+MA-TCHES and Bis become taken by the mind of whatever is come through the portal, putting them into what seems like a mind trance
+Loud rumbles take place and the group gets the feeling they need to get back to the other room and stop whatever is being summoned
+An ethereal portal opens and a large ethereal creature comes slithering through, 2 foot fangs releases a loud roar, shaking the walls
+
+****END OF SESSION***
+
